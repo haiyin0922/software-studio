@@ -1,0 +1,105 @@
+#body{
+    background-image: url(img/back.jpeg);
+    background-size: 1920px 1280px;
+}
+
+#div1{
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -300px;
+}
+
+#table{
+    font: 30px "Chiller";
+    width: 430px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -215px;
+    margin-top: -225px;
+}
+
+#email{
+    background-color: lightblue;
+    font: 20px "Bradley Hand ITC";
+    text-align: center;
+    width: 430px;
+    height: 40px;
+    border: 0;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+#password{
+    background-color: lightblue;
+    font: 20px "Bradley Hand ITC";
+    text-align: center;
+    width: 430px;
+    height: 40px;
+    border: 0;
+    outline: none;
+    margin-bottom: 40px;
+}
+
+#signin{
+    font: 30px "Chiller";
+    background-color: lightblue;
+    width: 430px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#signup{
+    font: 30px "Chiller";
+    background-color: lightblue;
+    width: 430px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+#google{
+    font: 30px "Chiller";
+    background-color: lightblue;
+    width: 430px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+#table_txt{
+    font: 25px "Chiller";
+}
+
+@media(max-height: 460px){
+    #table{
+        margin-top: -150px;
+    }
+}
+
+@media(max-height: 300px){
+    #table{
+        margin-top: -100px;
+    }
+}
+
+@media(max-height: 150px){
+    #table{
+        margin-top: -50px;
+    }
+}

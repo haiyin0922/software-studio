@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Lab_04 Calculator</title>
+
+		<!-- CSS and javascript -->
+		<link rel="stylesheet" type="text/css" href="Lab_04.css">
+		<script src="Lab_04.js"></script>
+		<script type="text/javascript" src="keypress.js"></script>
+	</head>
+	<body style="background-color:gray;">
+		<div id="calculator">
+			<div>
+				<input type="text" class="display" id="screen" value="0" readonly>
+			</div>
+			<body onkeydown="keydown(event)"></body>
+			<table style="width:100%; table-layout:fixed ;" border="0" cellpadding="0">
+				<tr class="row">
+					<td><input type="button" value="C" class="btn btn3" onclick="clearAll();"></td>
+					<td><input type="button" value="(" class="btn btn3" onclick="calculation('(');"></td>
+					<td><input type="button" value=")" class="btn btn3" onclick="calculation(')');"></td>
+					<td><input type="button" value="÷" class="btn btn2" onclick="calculation('/');"></td>
+				</tr>
+				<tr class="row">
+					<td><input type="button" value="7" class="btn" onclick="connectionDigital('7');"></td>
+					<td><input type="button" value="8" class="btn" onclick="connectionDigital('8');"></td>
+					<td><input type="button" value="9" class="btn" onclick="connectionDigital('9');"></td>
+					<td><input type="button" value="×" class="btn btn2" onclick="calculation('*');"></td> <!--the '×' is not lowercase 'X'-->
+				</tr>
+				<tr class="row">
+					<td><input type="button" value="4" class="btn" onclick="connectionDigital('4');"></td>
+					<td><input type="button" value="5" class="btn" onclick="connectionDigital('5');"></td>
+					<td><input type="button" value="6" class="btn" onclick="connectionDigital('6');"></td>
+					<td><input type="button" value="-" class="btn btn2" onclick="calculation('-');"></td>
+				</tr>	
+				<tr class="row">
+					<td><input type="button" value="1" class="btn" onclick="connectionDigital('1');"></td>
+					<td><input type="button" value="2" class="btn" onclick="connectionDigital('2');"></td>
+					<td><input type="button" value="3" class="btn" onclick="connectionDigital('3');"></td>
+					<td><input type="button" value="+" class="btn btn2" onclick="calculation('+');"></td>
+				</tr>
+				<tr class="row">
+					<td colspan=2><input type="button" value="0" class="btn" style="width:100%;border-radius:40px" onclick="connectionDigital('0');"></td>
+					<td><input type="button" value="." class="btn" onclick="connectionDigital('.');"></td>
+					<td><input type="button" value="=" class="btn btn2" onclick="getResult();"></td>
+				</tr>
+			</div>
+		</div>
+	</body>
+</html>

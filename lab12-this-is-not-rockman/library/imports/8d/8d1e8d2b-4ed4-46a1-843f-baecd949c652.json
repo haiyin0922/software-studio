@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stand1",
+    "texture": "6f62e8e0-4f51-43e1-a09d-c7154229f7bb",
+    "atlas": "34e782c4-dde3-40ae-a6d5-7db11a398e80",
+    "rect": [
+      112,
+      311,
+      120,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      157
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

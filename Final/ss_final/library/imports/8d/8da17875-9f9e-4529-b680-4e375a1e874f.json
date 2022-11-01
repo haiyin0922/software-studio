@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bunny.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bunny-1": {
+      "__uuid__": "fdd9c1f4-843e-4484-bc44-fb8d72e5a074"
+    },
+    "bunny-10": {
+      "__uuid__": "4bc55732-3afd-40ff-aa37-05b8cd1ee6cd"
+    },
+    "bunny-11": {
+      "__uuid__": "cef54eeb-9083-4bec-99ab-dd00e52d8bf4"
+    },
+    "bunny-12": {
+      "__uuid__": "dbc047d3-8092-4fa8-82f3-2998a8ed6d35"
+    },
+    "bunny-2": {
+      "__uuid__": "81e6c6b1-53ec-43b0-999d-c72c375161d7"
+    },
+    "bunny-3": {
+      "__uuid__": "24d42ac1-7a33-49f3-823f-441274a1209d"
+    },
+    "bunny-4": {
+      "__uuid__": "3df55f14-22e7-45db-9770-24bc80ab6933"
+    },
+    "bunny-5": {
+      "__uuid__": "8702da63-23bc-4207-928d-35063c5db0db"
+    },
+    "bunny-6": {
+      "__uuid__": "5e7cfbbf-8642-439b-ac29-c0ec96fadab8"
+    },
+    "bunny-7": {
+      "__uuid__": "4ceb5e07-77fd-4bb1-8a08-3553153fe4e8"
+    },
+    "bunny-8": {
+      "__uuid__": "93eee63b-9196-420e-992b-7213120df9bc"
+    },
+    "bunny-9": {
+      "__uuid__": "a8a2b38e-4299-4d9a-97cf-9b22307fe2d4"
+    }
+  }
+}

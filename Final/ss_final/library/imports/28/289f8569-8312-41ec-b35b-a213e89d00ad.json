@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slime.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "slime-1": {
+      "__uuid__": "6921b77b-cd8b-4977-9252-b4f0e556d3d3"
+    },
+    "slime-10": {
+      "__uuid__": "33a0aceb-77ad-4aee-8391-38a426d0e659"
+    },
+    "slime-2": {
+      "__uuid__": "5192336d-c397-4c98-9204-00ebf3b20e9d"
+    },
+    "slime-3": {
+      "__uuid__": "a452767b-cbc3-4ea4-b20a-564b9ae41189"
+    },
+    "slime-4": {
+      "__uuid__": "816a8924-4ac8-46e5-a579-b0fb5e5306ab"
+    },
+    "slime-5": {
+      "__uuid__": "6cd1348e-f275-417f-8eaa-390699d2ac44"
+    },
+    "slime-6": {
+      "__uuid__": "2c4535be-f7b0-4d68-9662-6013918f1a83"
+    },
+    "slime-7": {
+      "__uuid__": "bbfba5c7-70e0-4af8-8ba3-79c500b93ffa"
+    },
+    "slime-8": {
+      "__uuid__": "66d1200f-aabd-47ed-8a0b-df0f98749a3a"
+    },
+    "slime-9": {
+      "__uuid__": "30ebb7b3-3b57-4647-bdd2-c7d21bdca92b"
+    }
+  }
+}

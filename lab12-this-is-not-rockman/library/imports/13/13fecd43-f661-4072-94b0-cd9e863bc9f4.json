@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "enemy.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "enemy1": {
+      "__uuid__": "06f04aac-1611-4b7e-9868-370233cb6e41"
+    },
+    "enemy2": {
+      "__uuid__": "7e4254b1-f1dc-4499-bb91-2b660ea826cf"
+    },
+    "enemy3": {
+      "__uuid__": "3b07f811-ba81-4852-a13a-0690f71e5eb4"
+    }
+  }
+}

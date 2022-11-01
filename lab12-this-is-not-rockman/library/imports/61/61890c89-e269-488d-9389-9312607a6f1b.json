@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "move8",
+    "texture": "6f62e8e0-4f51-43e1-a09d-c7154229f7bb",
+    "atlas": "34e782c4-dde3-40ae-a6d5-7db11a398e80",
+    "rect": [
+      137,
+      706,
+      118,
+      138
+    ],
+    "offset": [
+      4,
+      -2
+    ],
+    "originalSize": [
+      126,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

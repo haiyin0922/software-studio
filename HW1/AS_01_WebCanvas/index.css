@@ -1,0 +1,109 @@
+#canvas{
+    position: absolute;
+}
+
+#myCanvas{
+    background-image: url(image/paper.jpeg); 
+    background-size: 100%;
+    margin-top: 60px;
+    margin-left: 80px;
+    position: absolute;
+    z-index: 1;
+}
+
+#tempCanvas{
+    background: rgb(255, 255, 255, 0);
+    margin-top: 60px;
+    margin-left: 80px;
+    position: absolute;
+    z-index: 0;
+}
+
+#tools{
+    width: 450px;
+    height: 700px;
+    margin-top: 130px;
+    margin-left: 1350px;
+    position: absolute;
+    cursor: default;
+}
+
+#menu1{
+    background-image: url(image/list.png);
+    background-color: #FFCC00;
+    width: 80px;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: 850px;
+    position: absolute;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    font: 14px "微軟正黑體"; 
+    
+}
+
+#menu2{
+    background-image: url(image/list.png);
+    background-color: #FFCC00;
+    width: 80px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 850px;
+    position: absolute;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font: 17px "Curlz MT";
+}
+
+#color{
+    background-image: url(image/list.png);
+    width: 80px;
+    height: 30px;
+    margin-left: 450px;
+    margin-top: 850px;
+    position: absolute;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+#range{
+    width: 600px;
+    margin-left: 610px;
+    margin-top: 855px;
+    position: absolute;
+    cursor: pointer;
+}
+
+#background {
+  background-image: url(image/background.jpg);
+  background-size: 1930px 970px;
+  position: absolute;
+  cursor: default;
+}
+
+.btn {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 80px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    position: relative;			
+}
+
+
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

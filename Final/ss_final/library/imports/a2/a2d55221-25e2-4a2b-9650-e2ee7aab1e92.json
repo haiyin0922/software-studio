@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "player2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Attack2": {
+      "__uuid__": "40723d64-6cf9-4384-9891-2f0874111ef3"
+    },
+    "Attack3": {
+      "__uuid__": "fa0c231f-427c-4d63-a9ea-85757828be82"
+    },
+    "Attack4": {
+      "__uuid__": "b8b2a690-9128-4b4b-9a0c-0b53e920e448"
+    },
+    "Idle1": {
+      "__uuid__": "4cda38c7-bc04-4501-85b9-06ba94809aaa"
+    },
+    "Idle2": {
+      "__uuid__": "31e967c6-06e8-4cdc-818d-946dc1c849d1"
+    },
+    "Idle3": {
+      "__uuid__": "68d0410c-718d-47bd-8ed5-9c85d5ed3ac8"
+    },
+    "Idle4": {
+      "__uuid__": "3e018fcd-b9fc-4108-85fb-46a83ea74e5f"
+    },
+    "Run1": {
+      "__uuid__": "72da03db-2527-4c3c-8a83-6118fd746d46"
+    },
+    "Run2": {
+      "__uuid__": "738fec67-dd36-45ab-b514-07c86fae8bb8"
+    },
+    "Run3": {
+      "__uuid__": "ea21bc02-bbf5-4e4e-abab-fe36dd22be12"
+    },
+    "Run4": {
+      "__uuid__": "a6b5a863-0d8a-4ade-89bf-521ad32cd3a4"
+    },
+    "Run5": {
+      "__uuid__": "e91c67c5-3d6d-4e3b-aaff-f4ce2b31828e"
+    },
+    "Run6": {
+      "__uuid__": "f2d3114e-c07a-4c5b-a4d2-cb8f75ad03a6"
+    }
+  }
+}

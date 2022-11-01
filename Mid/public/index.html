@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chatroom /by Haiyin</title>
+
+    <!-- update the version number as needed -->
+    <script defer src="/__/firebase/7.14.1/firebase-app.js"></script>
+    <!-- include only the Firebase features as you need -->
+    <script defer src="/__/firebase/7.14.1/firebase-auth.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-database.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-messaging.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-storage.js"></script>
+    <!-- initialize the SDK after all desired features are loaded -->
+    <script defer src="/__/firebase/init.js"></script>
+    <!-- Firebase App is always required and must be first -->
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-database.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-functions.js"></script>
+    <script src="config.js"></script>
+    <script src="index.js"></script>
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head>
+  <body id="body">
+    <div id="div1">
+      <table id="table">
+        <tr><td>E-mail</td></tr>
+        <tr><td><input id="email" type="text" placeholder="E-mail" value="" /></td></tr>
+        <tr><td>Password</td></tr>
+        <tr><td><input id="password" type="password" placeholder="Password" value="" /></td></tr>
+        <tr><td><button id="signin" type="submit">Sign in</button></td></tr>
+        <tr><td><button id="google" type="submit">Sign in with Google</button></td></tr>
+        <tr align="center"><td id="table_txt">Don't have an account yet?</td></tr>
+        <tr align="center"><td id="table_txt"><a href="#" style="text-decoration:none" onclick="location.href='register.html'">
+          <font color="black">Sign up</font></a></td></tr>
+      </table>
+    </div>
+  </body>
+</html>

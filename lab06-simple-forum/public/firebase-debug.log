@@ -1,0 +1,48 @@
+[debug] [2020-04-21T08:39:28.652Z] ----------------------------------------------------------------------
+[debug] [2020-04-21T08:39:28.654Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2020-04-21T08:39:28.654Z] CLI Version:   8.1.1
+[debug] [2020-04-21T08:39:28.654Z] Platform:      win32
+[debug] [2020-04-21T08:39:28.654Z] Node Version:  v12.16.2
+[debug] [2020-04-21T08:39:28.655Z] Time:          Tue Apr 21 2020 16:39:28 GMT+0800 (GMT+08:00)
+[debug] [2020-04-21T08:39:28.656Z] ----------------------------------------------------------------------
+[debug] [2020-04-21T08:39:28.656Z] 
+[debug] [2020-04-21T08:39:28.664Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-21T08:39:28.665Z] > authorizing via signed-in user
+[debug] [2020-04-21T08:39:28.665Z] [iam] checking project lab06-simple-forum-0421 for permissions ["firebase.projects.get"]
+[debug] [2020-04-21T08:39:28.668Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-04-21T08:39:28.668Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-04-21T08:39:28.914Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 21 Apr 2020 08:39:30 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-21T08:39:28.924Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/lab06-simple-forum-0421:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-04-21T08:39:30.010Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 21 Apr 2020 08:39:31 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=887","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-21T08:39:30.011Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/lab06-simple-forum-0421  
+ 
+[debug] [2020-04-21T08:39:30.775Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 21 Apr 2020 08:39:31 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from 'C:\Users\User\Desktop\lab06-simple-forum'...
+[info] 
+[debug] [2020-04-21T08:39:30.781Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/lab06-simple-forum-0421/webApps/-/config  
+ 
+[debug] [2020-04-21T08:39:31.888Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 21 Apr 2020 08:39:32 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+[warn] !  Your requested "node" version "8" doesn't match your global version "12"
+[info] +  functions: functions emulator started at http://localhost:5001
+[info] i  functions: Watching "C:\Users\User\Desktop\lab06-simple-forum\functions" for Cloud Functions...
+[debug] [2020-04-21T08:39:32.813Z] [worker-pool] addWorker(~diagnostic~) 
+[debug] [2020-04-21T08:39:32.814Z] [worker-pool] Adding worker with key ~diagnostic~, total=1 
+[debug] [2020-04-21T08:39:32.814Z] [worker-pool] submitWork(triggerId=) 
+[debug] [2020-04-21T08:39:32.814Z] [worker-~diagnostic~-3886f4b7-f3c7-479c-99aa-3ae04e7d0e4b]: Assigning socketPath: \\?\pipe\C:\Users\User\Desktop\lab06-simple-forum\functions\12272 
+[debug] [2020-04-21T08:39:32.814Z] [worker-~diagnostic~-3886f4b7-f3c7-479c-99aa-3ae04e7d0e4b]: BUSY 
+[debug] [2020-04-21T08:39:33.162Z] [runtime-status] [12272] Functions runtime initialized. {"cwd":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions","node_version":"12.16.2"} 
+[debug] [2020-04-21T08:39:33.163Z] [runtime-status] [12272] Disabled runtime features: undefined 
+[debug] [2020-04-21T08:39:33.169Z] [runtime-status] [12272] Resolved module firebase-admin {"declared":true,"installed":true,"version":"8.10.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-admin\\lib\\index.js"} 
+[debug] [2020-04-21T08:39:33.171Z] [runtime-status] [12272] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.6.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-functions\\lib\\index.js"} 
+[debug] [2020-04-21T08:39:33.173Z] [runtime-status] [12272] Outgoing network have been stubbed. [{"name":"http","status":"mocked"},{"name":"http","status":"mocked"},{"name":"https","status":"mocked"},{"name":"https","status":"mocked"},{"name":"net","status":"mocked"}] 
+[debug] [2020-04-21T08:39:33.212Z] [runtime-status] [12272] Checked functions.config() {"config":{}} 
+[debug] [2020-04-21T08:39:33.213Z] [runtime-status] [12272] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.6.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-functions\\lib\\index.js"} 
+[debug] [2020-04-21T08:39:33.214Z] [runtime-status] [12272] Resolved module firebase-admin {"declared":true,"installed":true,"version":"8.10.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-admin\\lib\\index.js"} 
+[debug] [2020-04-21T08:39:33.214Z] [runtime-status] [12272] Resolved module firebase-functions {"declared":true,"installed":true,"version":"3.6.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-functions\\lib\\index.js"} 
+[debug] [2020-04-21T08:39:33.214Z] [runtime-status] [12272] firebase-admin has been stubbed. {"adminResolution":{"declared":true,"installed":true,"version":"8.10.0","resolution":"C:\\Users\\User\\Desktop\\lab06-simple-forum\\functions\\node_modules\\firebase-admin\\lib\\index.js"}} 
+[debug] [2020-04-21T08:39:33.216Z] [worker-~diagnostic~-3886f4b7-f3c7-479c-99aa-3ae04e7d0e4b]: IDLE 

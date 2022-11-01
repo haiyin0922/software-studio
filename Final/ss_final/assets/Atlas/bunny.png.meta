@@ -1,0 +1,12 @@
+{
+  "ver": "2.3.3",
+  "uuid": "feda3c71-26eb-4cb7-b2e3-02292eb4ee6f",
+  "type": "raw",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {}
+}

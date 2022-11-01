@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reborn3",
+    "texture": "6f62e8e0-4f51-43e1-a09d-c7154229f7bb",
+    "atlas": "34e782c4-dde3-40ae-a6d5-7db11a398e80",
+    "rect": [
+      134,
+      859,
+      121,
+      130
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      131,
+      148
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

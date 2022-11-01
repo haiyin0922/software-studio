@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Goomba.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Goomba_0": {
+      "__uuid__": "940afe41-c258-43b6-9e8e-eca677ddaa94"
+    },
+    "Goomba_1": {
+      "__uuid__": "d32011a6-1ef9-4133-824e-6562cc8fa7dc"
+    },
+    "Goomba_2": {
+      "__uuid__": "c07f836d-0f18-49df-96af-ff6c11f5905d"
+    },
+    "Goomba_3": {
+      "__uuid__": "9853cb23-93c3-4a93-b91a-0b5e253a9a11"
+    },
+    "Goomba_4": {
+      "__uuid__": "4bd30f6d-2a21-489c-a2f8-d9640a8820fc"
+    }
+  }
+}

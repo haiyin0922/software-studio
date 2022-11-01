@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Options  col_Button",
+    "texture": "f03fefbb-ec25-4508-b578-bb564e3646bb",
+    "atlas": "9be4f130-4d5e-4b3b-a47e-1115ecd1344a",
+    "rect": [
+      603,
+      809,
+      600,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

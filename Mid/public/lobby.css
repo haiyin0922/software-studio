@@ -1,0 +1,167 @@
+.body{
+    background-image: url(img/lobby.jpeg);
+    background-size: 1920px 1180px;
+}
+
+.btn-secondary{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 190px;
+    height: 80px;
+    border: 0;
+    cursor: pointer;
+    font: 30px "Chiller";
+    color: black;
+    outline: none;
+}
+
+.btn-secondary:focus {
+    background-color:rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#list-close-list{
+    width: 60px;
+    margin-top:50%;
+}
+
+#list-hello-list{
+    border-top-right-radius: 10px;
+}
+
+#post_list{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+#myroom{
+    background-color: rgba(255, 255, 255, 0.3);
+    height: 840px;
+}
+
+#comment{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#comment2{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.welcome{
+    width: 830px;
+    background-color: rgba(222, 184, 135, 0.5);
+    border-radius: 50px;
+    margin-top: 250px;
+}
+
+.txt{
+    font: 25px "Chiller";
+    margin-left: 800px;
+}
+
+.col-8{
+    margin-left: -45px;
+}
+
+.list-group{
+    width: min-content;
+}
+
+.list-group-item {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 0;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 10px;
+}
+
+.list-group-item:last-child {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 10px;
+}
+
+.row.custom-container-width {
+    max-width: 1920px;
+}
+
+.me{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 60%;
+    margin-left: 38%;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-radius: 10px;
+    padding: 15px;
+    font: 15px "微軟正黑體";
+}
+
+.others{
+    background-color: rgba(135, 206, 250, 0.7);
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-radius: 10px;
+    padding: 15px;
+    font: 15px "微軟正黑體";
+}
+
+.btn-group-vertical{
+    overflow: scroll; 
+    overflow-X: hidden;
+    width: 200px;
+}
+
+a,a:link, a:visited{
+    color:black;
+    font: 25px "Chiller";
+    text-decoration: none
+}
+
+a:hover{
+    color:grey;
+    font: 30px "Chiller";
+    text-decoration: none;
+}
+
+body {
+  padding-top: 56px;
+}
+
+@media (max-width: 500px) {
+    .btn-secondary{
+        width: 132px;
+        font: 22px "Chiller";
+    }
+    .list-group{
+        width: 120px;
+    }
+    .btn-group-vertical{
+        width: 150px;
+    }
+}
+
+.typewriter h1 {
+    color: #fff;
+    font: 90px "Chiller";
+    overflow: hidden; 
+    border-right: .15px solid black; 
+    white-space: nowrap; 
+    margin-left: 50px; 
+    letter-spacing: .1em; 
+    animation: typing 2.8s steps(30, end) both, blink-caret 0.8s both step-end 4; 
+    animation-delay: calc(var(--delay, 0) * 0.8s); 
+} 
+
+@keyframes typing {
+    from { width: 0 } to { width: 90% } 
+} 
+
+@keyframes blink-caret { 
+    from, to { border-color: transparent } 
+    50% { border-color: black } 
+} 

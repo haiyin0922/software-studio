@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mario_big_41",
+    "texture": "12dfd2b0-bb8f-4043-a1ef-aa13559b82c4",
+    "atlas": "46a08d2a-6fac-4ece-ab90-31b610d10dd9",
+    "rect": [
+      200,
+      36,
+      16,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      27
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

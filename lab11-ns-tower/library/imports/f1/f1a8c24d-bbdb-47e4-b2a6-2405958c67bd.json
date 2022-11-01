@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "player.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "player0": {
+      "__uuid__": "b7ad2720-dd66-4cc1-ae2d-ecbe99a0fbd3"
+    },
+    "player1": {
+      "__uuid__": "90c99c4f-078d-4905-a455-bfff13fe1681"
+    },
+    "player10": {
+      "__uuid__": "d5fb3f36-6b4c-4259-bc7c-ad4cdf977452"
+    },
+    "player11": {
+      "__uuid__": "5fe1e8c9-4db5-4a81-8743-cca82eaa3552"
+    },
+    "player12": {
+      "__uuid__": "f53f9624-01ec-4386-acf6-2ceb5d74cc48"
+    },
+    "player13": {
+      "__uuid__": "e30e9b43-75e0-4582-a98e-8dd172ee7791"
+    },
+    "player14": {
+      "__uuid__": "37a1569f-97c3-4fa2-9e5e-4afc18a251ea"
+    },
+    "player15": {
+      "__uuid__": "bf9fdae0-6ce1-4357-bf1b-a7bf66c8b5fa"
+    },
+    "player2": {
+      "__uuid__": "c252f15b-ed92-418f-9980-e56ee6c241b0"
+    },
+    "player3": {
+      "__uuid__": "e00a0169-9744-4231-8bdd-01c41fe21c50"
+    },
+    "player4": {
+      "__uuid__": "eb1688a8-c43c-4959-b643-054242ae0da0"
+    },
+    "player5": {
+      "__uuid__": "6f682a2b-7604-4a4e-82f0-9260bdf5837e"
+    },
+    "player6": {
+      "__uuid__": "0feb192f-d08d-4938-aa8e-a6b1fd289ee1"
+    },
+    "player7": {
+      "__uuid__": "8d810264-3ec1-4915-8673-66a675776ec0"
+    },
+    "player8": {
+      "__uuid__": "56480d3a-d8c8-49f3-ae37-f6490aed6076"
+    },
+    "player9": {
+      "__uuid__": "eaae7881-dc5b-47c9-bdf2-43962295fab1"
+    }
+  }
+}

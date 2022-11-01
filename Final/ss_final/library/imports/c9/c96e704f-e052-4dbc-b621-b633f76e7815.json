@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "player.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Crouch1": {
+      "__uuid__": "1e9481d9-bcf2-4aff-9be5-a13b2776f935"
+    },
+    "Crouch2": {
+      "__uuid__": "4acdafe9-09d3-4eb5-aaf5-97f458b0aefd"
+    },
+    "Crouch3": {
+      "__uuid__": "773aa111-ff43-44a6-acd2-1ff575501d7f"
+    },
+    "Idle_1": {
+      "__uuid__": "289b28e7-8958-49df-9697-e52fd614f625"
+    },
+    "Idle_2": {
+      "__uuid__": "8dd3cea5-8c76-43cc-9407-18854b65f1c8"
+    },
+    "Idle_3": {
+      "__uuid__": "16cd0e99-55de-4f6d-b1cd-96307646ae4b"
+    },
+    "Idle_4": {
+      "__uuid__": "91970d12-2207-43aa-b0cc-3dff292d54ad"
+    },
+    "Jump1": {
+      "__uuid__": "34b46f66-092b-4e7f-a61b-868fb18461e6"
+    },
+    "Jump2": {
+      "__uuid__": "eecf757d-5143-4efa-bcac-6864aa98310d"
+    },
+    "Jump3": {
+      "__uuid__": "a0c29698-e519-42bc-b76d-588a0c29e8c0"
+    },
+    "Jump4": {
+      "__uuid__": "369d64d7-20c7-452c-82c4-ecca2436a09c"
+    },
+    "Jump5": {
+      "__uuid__": "52185628-fa24-4119-be30-cb929bb7309d"
+    },
+    "Run_1": {
+      "__uuid__": "9d7a8095-97b6-4905-be15-ae1f36a297b4"
+    },
+    "Run_2": {
+      "__uuid__": "9827ecd2-183f-4691-ae63-4b3ad6a4ff5f"
+    },
+    "Run_3": {
+      "__uuid__": "61a5c62d-9442-4d72-a6e2-f06aa5e58811"
+    },
+    "Run_4": {
+      "__uuid__": "77bf462e-7d65-443b-a8e6-cf8446b7a983"
+    },
+    "Run_5": {
+      "__uuid__": "92e3eca4-da50-4ea9-8f0c-c9a759e91122"
+    },
+    "Run_6": {
+      "__uuid__": "c80725e3-ad6f-4768-9593-e7ec8c510265"
+    }
+  }
+}

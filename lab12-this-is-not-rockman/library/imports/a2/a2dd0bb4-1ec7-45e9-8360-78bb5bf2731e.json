@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rockman",
+    "texture": "6f62e8e0-4f51-43e1-a09d-c7154229f7bb",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      252,
+      1648
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      1652
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

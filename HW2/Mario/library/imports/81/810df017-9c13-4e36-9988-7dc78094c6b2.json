@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Flower.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "flower_0": {
+      "__uuid__": "57cba50b-2202-45b0-84c1-14bf28a2ef92"
+    },
+    "flower_1": {
+      "__uuid__": "f7282ab9-779b-456a-84fc-8c455c10d186"
+    }
+  }
+}

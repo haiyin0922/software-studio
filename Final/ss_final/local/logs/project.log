@@ -1,0 +1,181 @@
+2020-06-29T14:44:15.332Z - normal: Load ~/.CocosCreator/settings.json
+2020-06-29T14:44:15.405Z - normal: Initializing Asset Database
+2020-06-29T14:44:15.408Z - normal: checking language setting...
+2020-06-29T14:44:15.408Z - normal: Language: zh
+2020-06-29T14:44:15.962Z - success: preview server running at http://localhost:7456
+2020-06-29T14:44:15.968Z - success: protocol editor-framework registered
+2020-06-29T14:44:15.968Z - success: protocol app registered
+2020-06-29T14:44:15.968Z - success: protocol theme registered
+2020-06-29T14:44:15.968Z - success: protocol packages registered
+2020-06-29T14:44:15.968Z - success: protocol uuid registerred
+2020-06-29T14:44:15.969Z - success: protocol db registerred
+2020-06-29T14:44:15.969Z - success: protocol thumbnail registerred
+2020-06-29T14:44:15.969Z - success: protocol unpack registerred
+2020-06-29T14:44:15.969Z - success: protocol disable-commonjs registerred
+2020-06-29T14:44:16.210Z - normal: connected!
+2020-06-29T14:44:16.213Z - normal: Check project C:\Users\User\Desktop\ss_final
+2020-06-29T14:44:16.219Z - normal: Initializing project C:\Users\User\Desktop\ss_final
+2020-06-29T14:44:16.336Z - success: adapters loaded
+2020-06-29T14:44:16.347Z - success: asset-db-debugger loaded
+2020-06-29T14:44:16.471Z - success: fb-audience-network loaded
+2020-06-29T14:44:16.521Z - success: fb-live-stream loaded
+2020-06-29T14:44:16.527Z - success: google-play-instant loaded
+2020-06-29T14:44:16.537Z - success: huawei-runtime loaded
+2020-06-29T14:44:16.540Z - success: jkw-adapter loaded
+2020-06-29T14:44:16.542Z - success: jsb-adapter loaded
+2020-06-29T14:44:16.550Z - success: oppo-runtime loaded
+2020-06-29T14:44:16.556Z - success: package-manager loaded
+2020-06-29T14:44:16.558Z - success: qtt-adapter loaded
+2020-06-29T14:44:16.563Z - success: runtime-dev-tools loaded
+2020-06-29T14:44:16.574Z - success: sdkbox loaded
+2020-06-29T14:44:16.579Z - success: ui-kit-preview-extra loaded
+2020-06-29T14:44:16.584Z - success: ui-kit-preview loaded
+2020-06-29T14:44:16.594Z - success: vivo-runtime loaded
+2020-06-29T14:44:16.599Z - success: alipay-minigame loaded
+2020-06-29T14:44:16.681Z - success: assets loaded
+2020-06-29T14:44:16.685Z - success: baidugame-opendata loaded
+2020-06-29T14:44:16.688Z - success: baidugame loaded
+2020-06-29T14:44:16.691Z - success: builder loaded
+2020-06-29T14:44:16.865Z - success: cocos-services loaded
+2020-06-29T14:44:16.871Z - success: console loaded
+2020-06-29T14:44:16.896Z - success: fb-instant-games loaded
+2020-06-29T14:44:16.904Z - success: game-window loaded
+2020-06-29T14:44:16.908Z - success: google-instant-games loaded
+2020-06-29T14:44:16.917Z - success: hierarchy loaded
+2020-06-29T14:44:16.923Z - success: inspector loaded
+2020-06-29T14:44:17.335Z - success: cpk-publish loaded
+2020-06-29T14:44:17.343Z - success: keystore loaded
+2020-06-29T14:44:17.359Z - success: node-library loaded
+2020-06-29T14:44:17.361Z - success: open-recent-items loaded
+2020-06-29T14:44:17.365Z - success: package-asset loaded
+2020-06-29T14:44:17.367Z - success: preferences loaded
+2020-06-29T14:44:17.371Z - success: project-exporter loaded
+2020-06-29T14:44:17.374Z - success: project-importer loaded
+2020-06-29T14:44:17.377Z - success: project-settings loaded
+2020-06-29T14:44:17.399Z - success: qtt-runtime loaded
+2020-06-29T14:44:17.404Z - success: scene loaded
+2020-06-29T14:44:17.407Z - success: simulator-debugger loaded
+2020-06-29T14:44:17.409Z - success: sprite-editor loaded
+2020-06-29T14:44:17.413Z - success: store loaded
+2020-06-29T14:44:17.417Z - success: timeline loaded
+2020-06-29T14:44:17.423Z - success: wechatgame-opendata loaded
+2020-06-29T14:44:17.429Z - success: wechatgame loaded
+2020-06-29T14:44:17.436Z - success: xiaomi-runtime loaded
+2020-06-29T14:44:18.866Z - normal: Initializing Cocos2d
+2020-06-29T14:44:19.393Z - normal: Initializing engine extends
+2020-06-29T14:44:21.249Z - normal: Loading packages
+2020-06-29T14:44:21.263Z - normal: Watching packages
+2020-06-29T14:44:21.919Z - normal: Run Application
+2020-06-29T14:44:25.003Z - info: Cocos Service load base data!
+2020-06-29T14:44:28.345Z - warn: Script attached to "Main Camera" in scene "Game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Asset url: "db://assets/Scene/Game.fire"
+Script UUID: "f0706da9-73e1-4bc4-a1b6-beb699bf38ab"
+Class ID: "f07062pc+FLxKG2vraZvzir"
+
+2020-06-29T14:47:28.948Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "f0706da9-73e1-4bc4-a1b6-beb699bf38ab"
+Class ID: "f07062pc+FLxKG2vraZvzir"
+
+2020-06-29T14:48:25.188Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "f0706da9-73e1-4bc4-a1b6-beb699bf38ab"
+Class ID: "f07062pc+FLxKG2vraZvzir"
+
+2020-06-29T14:48:52.711Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Script UUID: "f0706da9-73e1-4bc4-a1b6-beb699bf38ab"
+Class ID: "f07062pc+FLxKG2vraZvzir"
+
+2020-06-29T14:49:00.647Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\User\\Desktop\\ss_final\\build",
+  "debug": false,
+  "dest": "C:\\Users\\User\\Desktop\\ss_final\\build\\web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "scenes": [
+    "16fa96ec-016e-4472-9d1b-df9faaaad4ae",
+    "131bd490-3682-47a6-98f5-ab6ab2e6f51c",
+    "9eb6accf-a954-48e8-9610-59650d50ab62",
+    "9d554df6-8f49-42ed-9227-b66bc3694c86",
+    "62903f48-bc4a-427c-8e47-c88707c5bd49"
+  ],
+  "sourceMaps": false,
+  "startScene": "16fa96ec-016e-4472-9d1b-df9faaaad4ae",
+  "template": "link",
+  "title": "season_challenge",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "7eae3cc9-8f71-4a",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\User\\Desktop\\ss_final",
+  "projectName": "season_challenge",
+  "debugBuildWorker": false
+}
+2020-06-29T14:49:00.648Z - normal: Building C:\Users\User\Desktop\ss_final
+2020-06-29T14:49:00.649Z - normal: Destination C:\Users\User\Desktop\ss_final\build\web-desktop
+2020-06-29T14:49:00.750Z - normal: Delete C:\Users\User\Desktop\ss_final\build\web-desktop\subpackages/**/*,C:\Users\User\Desktop\ss_final\build\web-desktop\**\*
+2020-06-29T14:49:05.170Z - normal: Start building assets
+2020-06-29T14:49:05.170Z - normal: Start spawn build-worker
+2020-06-29T14:49:06.238Z - normal: Finish spawn build-worker
+2020-06-29T14:49:06.238Z - normal: Start init build-worker
+2020-06-29T14:49:10.209Z - normal: Finish init build-worker
+2020-06-29T14:49:10.210Z - normal: Start build-assets in worker
+2020-06-29T14:49:10.648Z - warn: Script attached to "Main Camera" in scene "Game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/Main Camera"
+Asset url: "db://assets/Scene/Game.fire"
+Script UUID: "f0706da9-73e1-4bc4-a1b6-beb699bf38ab"
+Class ID: "f07062pc+FLxKG2vraZvzir"
+
+2020-06-29T14:49:12.619Z - normal: Finish build-assets in worker
+2020-06-29T14:49:12.628Z - normal: Finish building assets
+2020-06-29T14:49:12.742Z - normal: Start building plugin scripts
+2020-06-29T14:49:25.555Z - normal: Finish building plugin scripts
+2020-06-29T14:49:25.582Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
+2020-06-29T14:49:25.594Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-desktop\template\index.html
+2020-06-29T14:49:25.698Z - normal: Built to "C:\Users\User\Desktop\ss_final\build\web-desktop" successfully
+2020-06-29T14:49:31.650Z - info: shutdown preview server

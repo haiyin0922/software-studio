@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Back  col_Button": {
+      "__uuid__": "7b036f33-31fe-4c8e-923c-b50dd17fbba0"
+    },
+    "Back Button": {
+      "__uuid__": "35becbf0-dd88-40d1-a0e8-66731964d853"
+    },
+    "Continue  col_Button": {
+      "__uuid__": "299bdce5-1839-4666-b752-332a43aae327"
+    },
+    "Continue Button": {
+      "__uuid__": "f62b3d68-a697-438c-9f8b-ccb0ade8ef46"
+    },
+    "Controls  col_Button": {
+      "__uuid__": "2604087b-46f3-4734-a555-e575be344758"
+    },
+    "Controls Button": {
+      "__uuid__": "c578ce91-6549-45b7-9bf0-a25bfed782d9"
+    },
+    "Exit  col_Button": {
+      "__uuid__": "91a678d9-1797-48c6-8293-0ad0c859639c"
+    },
+    "Exit Button": {
+      "__uuid__": "0c29418c-1308-44b3-9c44-65596ce28da8"
+    },
+    "Load  col_Button": {
+      "__uuid__": "f8f6f240-4f87-4bb8-b128-a9a2669dc41c"
+    },
+    "Load Button": {
+      "__uuid__": "87e308f0-d017-43a8-91ae-5759430443ab"
+    },
+    "Menu  col_Button": {
+      "__uuid__": "224fd22a-23da-4316-80ec-18a584970490"
+    },
+    "Menu Button": {
+      "__uuid__": "a0d142e5-296e-4e92-af4d-2e263c03facb"
+    },
+    "New Game  col_Button": {
+      "__uuid__": "6a0f2d2d-e3c7-4b86-b329-9b5c375130f3"
+    },
+    "New game Button": {
+      "__uuid__": "3bd97f6f-8dc6-40be-872c-eaad0d218b71"
+    },
+    "Options  col_Button": {
+      "__uuid__": "fd098736-7328-4a97-b877-679f1c6ce564"
+    },
+    "Options Button": {
+      "__uuid__": "a5d343b0-ac87-4e2f-978b-295c395fb8e0"
+    },
+    "Play Button": {
+      "__uuid__": "f86dc74c-47b7-4720-bc2f-4d3cd859e468"
+    },
+    "Play col_Button": {
+      "__uuid__": "711790fe-27f9-41b8-9fc3-ca68e15d0187"
+    },
+    "Quit  col_Button": {
+      "__uuid__": "4fcc13fc-fe59-4a8a-8f39-f4da668cf23b"
+    },
+    "Quit Button": {
+      "__uuid__": "b0a0f029-0376-4947-8598-09e21993ef6e"
+    },
+    "Resume  col_Button": {
+      "__uuid__": "94f77860-a99b-48eb-ab85-f02b4be176af"
+    },
+    "Resume Button": {
+      "__uuid__": "4d8130d8-a207-487e-8f38-702f1092a4b5"
+    },
+    "Settings  col_Button": {
+      "__uuid__": "484592c8-a385-4e96-a571-91c42569dbf6"
+    },
+    "Settings Button": {
+      "__uuid__": "a9f7bb50-1134-4e73-814b-96de274c7ff8"
+    },
+    "Start  col_Button": {
+      "__uuid__": "4bb6b83a-87f7-4511-9d92-a41582067da1"
+    },
+    "Start Button": {
+      "__uuid__": "4d8bcb12-e5ad-4245-8b6d-592f2420bc4e"
+    }
+  }
+}

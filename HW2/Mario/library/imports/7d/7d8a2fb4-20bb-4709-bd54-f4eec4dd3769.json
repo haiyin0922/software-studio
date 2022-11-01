@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turtle_3",
+    "texture": "178c630b-cb13-4243-85b1-1dc896704aff",
+    "atlas": "2dc28d06-85b0-408a-9e83-a7a68770670d",
+    "rect": [
+      75,
+      1,
+      16,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

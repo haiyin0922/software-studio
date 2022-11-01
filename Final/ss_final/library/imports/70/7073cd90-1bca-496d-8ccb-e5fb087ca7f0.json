@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "playerAttack.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Attack1": {
+      "__uuid__": "7ac24a01-07d9-432f-9012-54d678a4a750"
+    },
+    "Attack2": {
+      "__uuid__": "a49ca7ac-962e-4273-ab9a-7eeb1b96cffe"
+    },
+    "Attack3": {
+      "__uuid__": "d219b68e-8ed5-4879-bedc-c4f2e80d9783"
+    },
+    "Attack4": {
+      "__uuid__": "d560e8d3-bd55-4d26-a75b-f9439dda91ed"
+    }
+  }
+}
